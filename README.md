@@ -1,6 +1,4 @@
 # Retail-Sales-predictions-Machine-learning-project
-Retail-Sales-Prediction-
-640px-Rossmann_Logo svg
 
 📖PROBLEM STATEMENT
 Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Rossmann store managers are tasked with predicting their daily sales for up to six weeks in advance. Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality. With thousands of individual managers predicting sales based on their unique circumstances, the accuracy of results can be quite varied. My work includes various plots and graphs , visualizations , feature engineering , ensemble techniques , different ML algorithms with their respective parameter tuning , analysis and trends . Predictions are of 6 weeks of daily sales for 1,115 stores located across Germany.
@@ -49,7 +47,7 @@ We can say that random forest regressor model is our optimal model and can be de
 The given IPython Notebook can be either downloaded to be run on your local Jupyter Notebook or can be directly run on Google Colab.
 
 📜 Credits
-Abhishek Rathore| Data Scientist | Machine Learning Engineer | Data Science enthusiast
+Chiranjivi singh| Data Scientist | Machine Learning Engineer | Data Science enthusiast
 
 Special thanks to AlmaBetter
 
